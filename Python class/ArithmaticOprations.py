@@ -18,4 +18,4 @@ print("divi",variable3)
 
 print(12%4)
 
-
+print(14%5)
