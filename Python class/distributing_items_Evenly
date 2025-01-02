@@ -1,0 +1,5 @@
+candies = 17
+children = 3
+candies_per_child = candies // children 
+print("candies_per_chilf",candies_per_child)
+#output 5
